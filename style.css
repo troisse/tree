@@ -1,0 +1,63 @@
+	body
+		{ back
+		}
+		ol,ul
+		{
+			font-family: Purisa;
+		}
+		h2
+		{
+			font-family: ani;
+		}
+		#MJ
+		{
+			color: lime;
+		}	
+		#KN
+		{
+			color: skyblue;
+		}
+		#EM
+		{
+			color: yellow
+		}
+		ol
+		{
+			color: white
+		}
+		ul
+		{
+			color: white
+		}
+		h2
+		{
+			color: violet
+		}
+		#tm
+		{
+			margin: 0;
+			padding: 0;
+			display: inline;
+		}
+		#tm a:hover
+		{
+			background-color: skyblue
+		}
+		div
+		{
+			background-color: #CEF6F5;
+			font-family: symbola;
+			font-size: 30;color: white;
+		}
+		form
+		{
+			text-align: right;
+		}
+		table
+		{
+			background-color: white;
+		}
+		p
+		{
+			color: white
+		}

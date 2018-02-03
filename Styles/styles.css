@@ -1,0 +1,15 @@
+#footer{background-color: #00BFFF;
+text-align: center;}
+li{padding: 8px 16px;
+			width:60px;
+			display: inline;
+			border-radius: 5px;
+			list-style: none;}
+a:hover{background-color:#81DAF5;}
+#intro{text-align: justify;}
+#image{text-align: center;
+padding-left: 200px;
+padding-right: 200px;}
+body{background-color: #A9F5F2;}
+#id{text-align: center;
+background-color: #2ECCFA;}
